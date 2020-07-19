@@ -1,0 +1,7 @@
+name: TacoKbModifier
+main: Taco\TacoKbModifier\Main
+api: [3.0.0]
+version: 1.0
+author: Taco
+description: Makes KnockBack Bigger Or Smaller
+website: GitHub.Com/TWRRR
